@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    width: 70vw;
+    /*height: 100vh;*/
+    margin: 5vw 15vw 15vw;
+    background-color: aliceblue;
+    font-family: Calibri;
+    color: white;
+}
+
+p{
+    color: black;
+    margin: 0% 0% 5%;
+    text-align: justify;
+}
+
+dl{
+    height: 81%;
+}
+
+dt{
+    height: 7%;
+    background-color: #0e494e;
+    padding: 1% 0% 1% 5%;
+    font-weight: bold;
+}
+
+dd{
+    height: 20%;
+    background-color: #236167;
+    margin-bottom: 3%;
+    margin-left: unset;
+    padding: 1% 3% 2%;
+    text-align: justify;
+    font-size: 17px;
+}
+
+sup{
+    color: deeppink;
+}
+
+span{
+    font-weight: bold;
+    margin-right: 15px;
+}
